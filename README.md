@@ -7,7 +7,8 @@ One submission to CVPR
 
 ## SweatBridge
 A small group aiming to launch an app-web based service for Crossfit enjoyers and Crossfit gyms(boxes).
-Currently under beta testing, preparing to launch early 2026.
+Currently under beta testing, preparing to launch early 2026. <br>
+Working as full-stack dev. Flutter for apps and React for web, Firebase as backend.
 
 <!--
 **SimonKim4100/SimonKim4100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
