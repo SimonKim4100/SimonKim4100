@@ -1,4 +1,5 @@
-## Hi there 👋
+# 김세민 Simon Kim
+## [Yonsei University MMAI Lab](https://mmai.yonsei.ac.kr/)
 
 <!--
 **SimonKim4100/SimonKim4100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
