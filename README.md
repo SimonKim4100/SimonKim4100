@@ -1,11 +1,13 @@
-## 김세민 Simon Kim
+# 김세민 Simon Kim
 ### [Yonsei University MMAI Lab](https://mmai.yonsei.ac.kr/)
-
-### Computer Vision
+## Computer Vision
 🔭 I’m currently working on 3D Reconstruction, Avatars, Human-Object Interactions(HOI)
-
-#### Papers
+### Papers
 One submission to CVPR
+
+## SweatBridge
+A small group aiming to launch an app-web based service for Crossfit enjoyers and Crossfit gyms(boxes).
+Currently under beta testing, preparing to launch early 2026.
 
 <!--
 **SimonKim4100/SimonKim4100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
