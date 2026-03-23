@@ -3,7 +3,7 @@
 ## Computer Vision
 🔭 I’m currently working on 3D Reconstruction, Avatars, Human-Object Interactions(HOI)
 ### Papers
-One submission to CVPR
+One submission to ECCV
 
 ## SweatBridge
 A small group aiming to launch an app-web based service for Crossfit enjoyers and Crossfit gyms(boxes).
